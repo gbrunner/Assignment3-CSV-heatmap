@@ -34,8 +34,8 @@
         url: url,
         title: "St. Louis Crime Heatmap",
         copyright: "St. Louis Police Department",
-		latitudeField:"Lat",
-        longitudeField:"Lon",
+		latitudeField:"Latitude",
+        longitudeField:"Longitude",
 		popupTemplate: template,
 		renderer: renderer
 });
